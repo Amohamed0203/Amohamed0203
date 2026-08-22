@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey, I'm Ahmed 👋
+Software developer / IT enthusiast based in the United States.
+
+🐍 Python is my primary language
+🔐 Security+, CySA+, CCNA certified
+⚽ Outside of tech: football (soccer for the Americans) and gym
 
 <!--
 **Amohamed0203/Amohamed0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
