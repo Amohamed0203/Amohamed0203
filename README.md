@@ -1,9 +1,12 @@
-## Hey, I'm Ahmed 👋
-Software developer / IT enthusiast based in the United States.
+### Hi, I'm Ahmed 👋
 
-🐍 Python is my primary language<br>
-🔐 Security+, CySA+, CCNA certified<br>
-⚽ Outside of tech: football (soccer for the Americans) and gym<br>
+Recent Computer Science graduate (University of Memphis, 3.7 GPA) who builds security and  automation tools in Python.
+
+🔐 **Certifications:** Security+ | CySA+ | CCNA
+
+💼 **Experience:** Security operations (Wazuh, Splunk, CrowdStrike) and IT support — across  roles at Kifiya Financial Technology, FedEx, and Methodist Le Bonheur Healthcare.
+
+🐍 **What I work on:** Python scripts and tools for security automation and analysis.
 
 <!--
 **Amohamed0203/Amohamed0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
